@@ -4,13 +4,13 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UDPEcho.Server;
+using UdpEcho.Server;
 
 namespace UDPEcho.ConsoleApp
 {
     class Program
     {
-        static UDPServer udpServer;
+        static UdpServer udpServer;
 
         static void Main(string[] args)
         {
@@ -22,7 +22,7 @@ namespace UDPEcho.ConsoleApp
                 return;
             }
 
-            udpServer = new UDPServer(port);
+            udpServer = new UdpServer(port);
             Console.WriteLine("Press Ctrl+C to quit.");
             Console.CancelKeyPress += Console_CancelKeyPress;
             udpServer.Listen();

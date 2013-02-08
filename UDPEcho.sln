@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPEcho.Server", "UDPEcho.Server\UDPEcho.Server.csproj", "{069BB6AA-0D18-43B4-B46F-0E5B828D4EA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpEcho.Server", "UDPEcho.Server\UdpEcho.Server.csproj", "{069BB6AA-0D18-43B4-B46F-0E5B828D4EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPTalker", "UDPTalker\UDPTalker.csproj", "{5C214822-C2BE-49DD-96A3-1F55FCB1E5FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpEcho.Talker", "UDPTalker\UdpEcho.Talker.csproj", "{5C214822-C2BE-49DD-96A3-1F55FCB1E5FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPEcho.Console", "UDPEcho.Console\UDPEcho.Console.csproj", "{5062D859-5107-4765-9420-626A90CACDD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpEcho.Console", "UDPEcho.Console\UdpEcho.Console.csproj", "{5062D859-5107-4765-9420-626A90CACDD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

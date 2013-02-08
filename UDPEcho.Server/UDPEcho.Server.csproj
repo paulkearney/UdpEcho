@@ -7,8 +7,8 @@
     <ProjectGuid>{069BB6AA-0D18-43B4-B46F-0E5B828D4EA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UDPEcho.Server</RootNamespace>
-    <AssemblyName>UDPEcho.Server</AssemblyName>
+    <RootNamespace>UdpEcho.Server</RootNamespace>
+    <AssemblyName>UdpEcho.Server</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

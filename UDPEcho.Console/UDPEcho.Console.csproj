@@ -7,8 +7,8 @@
     <ProjectGuid>{5062D859-5107-4765-9420-626A90CACDD2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UDPEcho.ConsoleApp</RootNamespace>
-    <AssemblyName>UDPEcho.Console</AssemblyName>
+    <RootNamespace>UdpEcho.ConsoleApp</RootNamespace>
+    <AssemblyName>UdpEcho.Console</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -49,9 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UDPEcho.Server\UDPEcho.Server.csproj">
+    <ProjectReference Include="..\UDPEcho.Server\UdpEcho.Server.csproj">
       <Project>{069bb6aa-0d18-43b4-b46f-0e5b828d4ea5}</Project>
-      <Name>UDPEcho.Server</Name>
+      <Name>UdpEcho.Server</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

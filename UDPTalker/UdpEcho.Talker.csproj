@@ -7,8 +7,8 @@
     <ProjectGuid>{5C214822-C2BE-49DD-96A3-1F55FCB1E5FC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UDPTalker</RootNamespace>
-    <AssemblyName>UDPTalker</AssemblyName>
+    <RootNamespace>UDPEcho.Talker</RootNamespace>
+    <AssemblyName>UDPEcho.Talker</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

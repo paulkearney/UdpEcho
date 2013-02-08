@@ -7,16 +7,16 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace UDPEcho.Server
+namespace UdpEcho.Server
 {
-    public class UDPServer
+    public class UdpServer
     {
         private UdpClient client;
         private IPEndPoint groupEndPoint;
         private bool cancelSignal;
         private int port;
 
-        public UDPServer(int listenPort)
+        public UdpServer(int listenPort)
         {
             port = listenPort;
             client = new UdpClient(port);
